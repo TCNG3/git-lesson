@@ -8,3 +8,4 @@ This is a picture.
 
 This is a local image.
 
+![](image.png)
